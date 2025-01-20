@@ -4,7 +4,7 @@
 
 Waypoint Wizard is a Discord bot currently under development, designed to enhance the Minecraft experience by integrating waypoint management and visualization from the Xaero's Minimap mod. The bot monitors in-game chat for waypoints shared by players, compiles a searchable database, and provides various features to improve gameplay.
 
-**Note:** This bot is currently not in a functioning state as it is still under development.
+> **Note:** This bot is currently not in a functioning state as it is still under development.
 
 ## Features
 
@@ -12,6 +12,7 @@ Waypoint Wizard is a Discord bot currently under development, designed to enhanc
 - **Waypoint Retrieval:** Provides users with their stored waypoints on demand.
 - **Map Generation:** Generates maps displaying waypoint locations based on the server's map seed.
 - **Seed Integration:** Seamlessly integrates with the Minecraft world seed to ensure accurate map visuals.
+- **Planned Feature:** Generate new waypoints on demand to link points of interest, such as in-game structures.
 
 ## Prerequisites
 
@@ -32,10 +33,3 @@ For major changes, please open an issue first to discuss your proposal.
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
-
----
-
-### Stay Connected
-
-Have questions or suggestions? Feel free to reach out or join our development discussions on Discord!
-

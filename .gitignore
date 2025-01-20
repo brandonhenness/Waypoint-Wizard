@@ -1,0 +1,8 @@
+/config.py
+/__pycache__
+data.json
+cache.json
+dist/
+build/
+bot.log
+.vscode/
